@@ -1,0 +1,28 @@
+{
+  "name": "johnny-ai-skill",
+  "owner": {
+    "name": "Johnny AI Skill",
+    "url": "https://github.com/johnnyliu365-sys"
+  },
+  "description": "Detachable project-takeover workflow, context-load telemetry, and reusable-module skills.",
+  "plugins": [
+    {
+      "name": "johnny-ai-skill",
+      "version": "0.4.14",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/johnnyliu365-sys/Johnny_AI_Skill_publication.git",
+        "sha": "0000000000000000000000000000000000000000"
+      },
+      "description": "A detachable project-takeover workflow, context-load telemetry, and reusable-module selector.",
+      "author": {
+        "name": "Johnny AI Skill",
+        "url": "https://github.com/johnnyliu365-sys"
+      },
+      "homepage": "https://github.com/johnnyliu365-sys/Johnny_AI_Skill",
+      "repository": "https://github.com/johnnyliu365-sys/Johnny_AI_Skill.git",
+      "license": "Proprietary",
+      "keywords": ["workflow", "project-takeover", "router", "reusable-modules"]
+    }
+  ]
+}
