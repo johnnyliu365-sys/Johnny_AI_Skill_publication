@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reusable Module Apply"
+  short_description: "Select only the reusable modules a project needs"
+  default_prompt: "Use $apply-reusable-modules to select the smallest safe set of reusable source modules for this project."
